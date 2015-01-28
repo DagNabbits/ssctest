@@ -1,0 +1,37 @@
+{
+  "ProjectName": "SSNCAPP",
+  "ProjectGuid": "d111a3c9-da23-461a-83ed-c35cc6ae5205",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SSNCAPP",
+  "DisplayName": "SSNCAPP",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5bdde6e0-f988-4e85-a678-4f519377b32c}",
+  "WP8ProductID": "{afb9a6ba-1e20-40ff-8958-dccc0606645d}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
